@@ -1,0 +1,8 @@
+[default]
+account = "FBFOAHW.MIB03883"
+user = "UMAIRULLA05"
+password= "Newboy@123"
+role = "ACCOUNTADMIN"
+warehouse = "COMPUTE_WH"
+database = "PETS"
+schema = "PUBLIC"
